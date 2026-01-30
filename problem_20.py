@@ -9,3 +9,4 @@ for item in list1:
         common.append(item)
 print(f"Common elements: {common}")
 
+
